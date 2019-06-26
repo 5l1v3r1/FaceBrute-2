@@ -13,7 +13,7 @@ $ python2 brute.pyc
 ### Termux
 # Support To ios
 ### lolipop
-### kitkat
+### Oreo
 ### nauget
 ### Dll.
 ```
