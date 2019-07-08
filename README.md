@@ -7,7 +7,7 @@ $ pip install requests
 $ pip2 install mechanize
 $ git clone https://github.com/V4N654T/FaceBrute
 $ cd FaceBrute
-$ python2 brute.pyc
+$ python2 brute.py
 ```
 # Support To Apk
 ### Termux
